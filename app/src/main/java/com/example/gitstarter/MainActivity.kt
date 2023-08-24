@@ -14,8 +14,9 @@ class MainActivity : AppCompatActivity() {
     fun bc(){
 
         //d'fpkbn'dpf
+        //second line
     }
     fun masterc(){
-
+        //line from
     }
 }
