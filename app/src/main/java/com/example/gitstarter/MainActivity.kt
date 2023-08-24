@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         //start
         //133
         //master content
+        //mc 443
     }
     fun bc(){
 //jhbdjh
