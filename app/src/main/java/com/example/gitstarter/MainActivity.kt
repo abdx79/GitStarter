@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         //fdkvbkdfv/dfdfgdf
         //dfgdfg
         //this ismy un safe cide notbe aehdfvlhzbdk
+        // unsave dodo
     }
     fun masterc(){
         //line from
