@@ -12,9 +12,8 @@ class MainActivity : AppCompatActivity() {
         //master content
     }
     fun bc(){
-//jhbdjh
-        //d'fpkbn'dpf
-        //second line
+        //fdkvbkdfv/dfdfgdf
+        //dfgdfg
     }
     fun masterc(){
         //line from
