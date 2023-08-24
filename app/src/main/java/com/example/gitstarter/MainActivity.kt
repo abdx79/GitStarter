@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         //d'fpkbn'dpf
     }
+    fun masterc(){
+
+    }
 }
