@@ -12,11 +12,12 @@ class MainActivity : AppCompatActivity() {
         //master content
     }
     fun bc(){
-
+//jhbdjh
         //d'fpkbn'dpf
         //second line
     }
     fun masterc(){
         //line from
+        //linrr
     }
 }
