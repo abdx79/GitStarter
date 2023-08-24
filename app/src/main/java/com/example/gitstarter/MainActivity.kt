@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
     fun masterc(){
         //line from
         //linrr
+        // this is master line
     }
 }
