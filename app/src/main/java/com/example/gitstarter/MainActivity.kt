@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     fun bc(){
         //fdkvbkdfv/dfdfgdf
         //dfgdfg
+        //this ismy un safe cide notbe aehdfvlhzbdk
     }
     fun masterc(){
         //line from
