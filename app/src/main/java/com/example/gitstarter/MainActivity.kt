@@ -11,9 +11,7 @@ class MainActivity : AppCompatActivity() {
         //133
         //master content
     }
-    fun mass(){
-    }
-    fun masw(){
+    fun bc(){
 
     }
 }
